@@ -1,0 +1,11 @@
+Fintech startup Yenmo secures $500,000 in funding round led by Y Combinator
+Fintech platform Yenmo, which provides instant loans against mutual funds, has raised $500,000 in a seed funding round led by US-based startup accelerator Y Combinator.
+
+Founded by Aryan Agarwal and Ashutosh Purohit, Yenmo enables its users to borrow against their investments at a flat 10.5% interest rate. Investors can view all their investments in real time, select the assets they wish to borrow against, and receive funds directly into their bank accounts.
+
+Users can pay only interest during the tenure of the loan, and can pay back the principal amount whenever funds become available. Yenmo also does not do a credit-score check and provides loans based on users' mutual fund investments.
+
+The platform offers a full-stack API solution for other companies to integrate loans against mutual funds into their products. It further plans to launch new products like loans against stocks, insurance, digital gold, and land.
+
+"We aim to bring in a suite of lending options that were only accessible to high net worth individuals previously, now to every Indian consumer," Purohit, chief executive officer and cofounder, Yenmo, said in a statement.
+"With Yenmo, they will no longer have to sell their mutual funds. Instead, taking a loan on it is a much better way to keep the investments intact, which will help your money grow in the long term while providing access to funds for immediate requirements," he added.

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Clairbot PR Strategizer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Major+Mono+Display:wght@500&display=swap">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+<body>
+    <div class="header"><h1>clairbot pr lexical to symbolic logic engine</h1></div>
+    <div class="container">
+        {% if content %}
+            <div class="original_article">
+                <button class="minimize-button" aria-label="Minimize">[ - ]</button>
+                <h2>Original Article</h2>
+                {% for item in key_phrases_data['paragraphs'] %}
+                  <p id="{{ loop.index0 }}">{{ item }}</p>
+                {% endfor %}
+            </div>
+
+    <div class="phrases_content">
+                <button class="minimize-button" aria-label="Minimize">[ - ]</button>
+        <h2>Key Phrases</h2>
+        <table>
+           <thead>
+               <tr>
+                   <th>paragraph</th>
+                   <th>key phrases</th>
+               </tr>
+           </thead>
+            <tbody>
+        {% for item in key_phrases_data['phrases'] %}
+        <tr data-paragraph-id="{{ loop.index0 }}">
+            <td>{{ loop.index0 }}</td> <!-- Prints the 0-based index for the current item -->
+            <td>{{ item|join(', ') }}</td>
+        </tr>
+        {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <div class="symbolic_logic">
+                <button class="minimize-button" aria-label="Minimize">[ - ]</button>
+        <h2>Symbolic Logic</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Connection</th>
+                <th>Symbolic Logic Representation</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for conn in connections %}
+            <tr>
+<td data-conn-i="{{ conn.i }}" data-conn-j="{{ conn.j }}" class="connection-cell">P{{ conn.i }} → P{{ conn.j }}</td>
+
+                <td class="logical-representation">&nbsp;</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    </div>
+    {% endif %}
+    <div class="control_panel">
+        <button class="minimize-button" aria-label="Minimize">[ - ]</button>
+        <h2>Select a File</h2>
+        <form action="/select_file" method="post">
+            <select name="file_selector" onchange="this.form.submit()">
+                <option value="">--Select a File--</option>
+                {% for file in files %}
+                    <option value="{{ file }}">{{ file }}</option>
+                {% endfor %}
+            </select>
+        </form>
+        {% if image_path %}
+        <div class="graph_container"> 
+            <h2>Graph Visualization</h2>
+            <img src="{{ url_for('static', filename='graph_images/' + image_path.split('/')[-1]) }}" alt="Graph Image">
+        </div>
+        {% endif %}
+    </div>
+    </div>
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>

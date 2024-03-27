@@ -1,0 +1,29 @@
+BIRDSEYE RAISES $500,000 TO HELP SHOPIFY BUSINESSES AUTOMATE MARKETING STRATEGIES USING AI
+
+Birdseye’s platform generates marketing plans with step-by-step instructions.
+
+Toronto-based artificial intelligence (AI) startup Birdseye has secured $500,000 in pre-seed funding as part of its mission to help e-commerce businesses automate their marketing workflows.
+
+The capital came from Ohio-based private equity firm Drive Capital and its $80 million seed program that invests in early-stage companies in Toronto as well as Chicago, Atlanta, Columbus, and Denver. Its portfolio includes the likes of Duolingo as well as Canadian startups Koho, ApplyBoard, and Cyclica.
+
+Birdseye is entering a saturated market for AI applications in marketing, especially now that enterprises such as Microsoft and Google have taken part in this new wave of generative AI.
+
+Generative AI has been widely used in marketing to create text, video, and image content. However, prior to the recent boom in generative AI, machine learning has been mainly used in marketing to provide competitive intelligence to businesses. Birdseye believes this isn’t enough.
+
+According to Birdseye, its platform goes beyond standard e-commerce analytics reporting, which typically lacks solutions for what to do with the collected data. Birdseye uses AI to automatically generate step-by-step marketing plans.
+
+Each week, Birdseye users receive marketing plans that are designed to be simple to act on. The platform is able to identify which specific product to advertise, who to advertise it to, and which channels to deploy the advertising campaign.
+
+Birdseye also noted that each AI-generated marketing strategy is also accompanied by an expected end result, meant to help businesses pursue marketing opportunities that are most likely to yield lucrative outcomes. Birdseye’s software integrates with data from various e-commerce and social media platforms, including Shopify, Google, TikTok, Meta, and Klaviyo.
+
+Birdseye was founded in 2021 by brothers Matt (CEO) and Adam Bogoroch (COO) as well as Shardul Frey (CTO). Matt and Frey shared a cubicle at KPMG in 2018, where they advised organizations on AI and developed advanced analytics solutions.
+
+At one point in their time at KPMG, Matt and Frey recognized the challenges involved in interpreting data for large enterprises and how small businesses don’t have access to traditional management consulting.
+
+Tapping Adam to join its founding team, Matt and Frey decided to establish Birdseye to provide “sophisticated technology and analysis at an affordable price for small and medium sized businesses.”
+
+Matt told BetaKit that Birdseye is continuing to develop marketing solutions for Shopify brands and the broader e-commerce industry. This $500,000 in new funding will be allocated towards expanding Birdseye’s core engineering team.
+
+“With funding in place, Birdseye is well positioned to level the playing field for growing brands. Our goal is to become the leading ecommerce software for Shopify and ecommerce businesses,” said Matt.
+
+Featured image courtesy Birdseye.

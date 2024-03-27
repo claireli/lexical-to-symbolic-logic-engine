@@ -1,0 +1,17 @@
+New conversational AI company Front AI raises €500k in seed funding
+
+Helsinki 11.3.2019
+
+New conversational AI company Front AI raises €500k in seed funding: Creating a game-changing chatbot service beyond traditional customer interactions
+Front AI, a Helsinki-based AI chatbot service startup that allows organisations to
+automate customer service interactions through the use of advanced chatbot and AI technology, announced today it had raised €500,000 Seed Funding from the owners of Digital Workforce: CapMan Growth Fund, Leena Niemistö, Lifeline Ventures and the co-founders. The raised capital will be used to create a unique conversational AI solution that changes the way chatbots are used not only for informational, but also for transactional purposes: chatbots can serve customers and execute their requests 24/7.
+
+“The AI chatbot market is doubling each year. We are positioning ourselves as a game-changer in customer conversations by automating a majority of customer dialogues. In addition to providing information and guidance, our bots can recognise customers and their personalised needs and directly handle most actions in IT systems traditionally used by customer service agents. This is a true, value-added service for end customers waiting to be served around the clock. Our technology partner boost.ai is the next generation chatbot – neural network based conversational AI platform, which enables new kind of intelligent and integrated customer service automations previously not possible”, said Jari Annala, CEO of Front AI.
+
+“The Front AI team has deep industry knowledge in our key customer segments, such as in the financial,
+telecom and insurance sectors. We see great potential in industry-specific use cases going beyond
+traditional customer service. For example, an enterprise may extend the question-answer chatbot solution within customer operations to update customer data in IT tools like ERP systems, CRM systems etc. without building integrations with these tools”, said Henry Vaage Iversen, Chief Commercial Officer of boost.ai. The same experienced investors and people are behind both Front AI and Digital Workforce Services: CapMan Growth Fund, Leena Niemistö, Lifeline Ventures and private investors. Digital Workforce, the leading Intelligent Process Automation company, has grown from a startup to a growth company employing over 200 people globally in less than four years.
+
+“Front AI has a unique value proposition to automate end-to-end customer service workflows and processes in the fast-growing market for chatbots. The timing is right now and the 2nd generation AI chatbots are ready to make a breakthrough. The team has an impressive track record of growth and technical AI skills from Digital Workforce. There is no doubt in my mind that we’ll see Front AI becoming a market leader in Conversational AI services”, commented Juha Mikkola Managing Partner at Capman Growth Fund.
+
+Front AI is initially targeting the Nordic market.

@@ -1,0 +1,52 @@
+Abbey Labs, Interview With Co-Founder & CEO Arvil Nagpal
+INTERVIEWSUSA
+Published on September 6, 2023
+
+Abbey Labs Co-Founder & CEO Arvil Nagpal and Co-Founder & CTO Jeff Chao
+In July, Abbey Labs, a San Francisco, CA-based identity and access management (IAM) company, raised $5.25m in seed funding. In conjunction with the announcement, we reached Co-Founder & CEO Arvil Nagpal, who replied to our questions about the company, the product they offer, the funding, business achievements, and future plans.
+
+FinSMEs: Can you tell us a bit more about yourself? What’s your background?
+
+I spent many years in identity working for Okta as a product lead. Jeff has been an infrastructure engineer at companies such as Netflix, Stripe, and Heroku. We started Abbey Labs to solve a problem that our customers faced, and that Jeff lived first-hand, namely, that engineers were spending far too much time on access management instead of their core responsibilities.  
+
+Jeff [Co-Founder & CTO Jeff Chao] and I came together because of our shared values and experiences. We’re both from immigrant families and each of us grew up outside the Bay Area (Las Vegas and Boston). We’re both family-oriented, love our dogs, and have a shared vision of building a successful and lasting company. 
+
+FinSMEs: What is the market problem you want to solve? What is the real opportunity?
+
+We sit at the intersection of several multi-billion-dollar markets: access governance, privileged access management, and identity management. According to one estimate, these aggregate markets are poised to make up approximately $11 billion in annual spending. 
+
+Today, there’s more data than ever. For engineers to do their jobs properly, they need the right access levels at the right time. Currently, access levels consist of a mingled set of IT tickets, wikis, slack messages that are all pieced together with little to no cohesion. Our approach at Abbey Labs is to enable companies to move quickly and securely. We believe that by empowering and creating better solutions for engineers we can solve this problem.
+
+Engineers that are closest to the crown jewels – cloud and data infrastructure – that have been historically underserved in this market. We are addressing this problem with automation tooling.
+
+FinSMEs: What are the features differentiating the product from competitors?
+
+We’re enabling engineers to automate how access is granted. By doing so, we reduce toil, and allow companies to be more secure and compliant.
+
+We’re not a SaaS tool that tries to institute control over an organization’s technology. Rather, we are an enabler of access and are deeply embedded into the environments in which people work as well as their existing developer workflows and deployment pipelines. 
+
+FinSMEs: You just raised a new funding round. Please, tell us more about it.
+
+We’re fortunate to have a great team of investors behind us. Point72 Ventures led the seed round with participation from Haystack, Essence Ventures, as well as a tremendous group of angel investors across security, data, and infrastructure.
+
+Our angel investors include Emilio Escobar, CISO at Datadog, Harold Gimenez, SVP of Engineering at Hashicorp, Pete Soderling, Founder of Data Council, Margaret Francis, former CPO at dbt labs, Savin Goyal, CTO of Outerbounds), Kamal Shah, former CEO of Stackrox,, Chip Huyen, CEO of Claypot AI, , Ryan Carlson, former CMO of Okta and Wiz, Jon Oberheide, founder of Duo, and many more.
+
+FinSMEs: Can you share some numbers and achievements of the business?
+
+We just announced our Seed fund raise of $5.25m, and we’ve worked with a small number of design partners on our private beta.  We recently launched our public beta. In addition, we formed a partnership with Hashicorp focused on co-developing and co-marketing our platform to HashiCorp’s clients to extend their infrastructure as Code (IaC) capabilities and allowing security teams to automate and secure which employees can access sensitive data.
+
+FinSMEs: What are your medium-term plans?
+
+Our vision is to embed access automation into every developer pipeline. We’re starting with Infrastructure as Code by building on Terraform, but this is just the start.
+
+Think about access as having both positive and negative implications, with a perfect balance between people having access, and the business limiting access. Giving people more access reduces friction; it’s the principle of least resistance. Reducing access makes you more secure, but with more friction; it’s the principle of least privilege.
+
+We believe that access should be autonomous; it should be self-healing. Based on data around who people are, their history, how they login, the strength of their 2FA factors, their location, and other variables, we’re able to define in real-time the ideal workflow for that access decision. The vast majority of requests are auto-approved but based on the risk of a given user and resource, additional steps can be taken, not just to allow for approvals, but to verify the user is who they say they are. 
+
+While the world is stuck in a workflow-driven process, this represents just the beginning for Abbey. We’ll support how the world works today, deploying Grant Kits for every company, every user, and every resource, as a means of collecting the rich data sets through which autonomous automation is built on.
+
+FinSMEs
+
+06/09/2023
+
+TAGGED WITH: Abbey Labs, Interview

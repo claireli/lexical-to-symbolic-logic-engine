@@ -1,0 +1,20 @@
+Supply chain dependent industries need a CRO to manage the blending of human and robotic workers.
+
+With the increased development and use of smart machines and robotics in the supply chain, companies must elevate the management of strategic initiative to the C-level management ranks. The evolution of this automated workforce is driving the need for a chief robotics officer (CRO).
+
+Gartner predicts that by 2020, 10% of large enterprises in supply-chain-dependent industries will have created a CRO position to oversee the blending of human and robotic workers.
+
+
+"Companies with extensive use of robotics across manufacturing and logistics, should look to create a CRO position that will blend engineering, IT and human capital management skills to develop the management structure to oversee all facets of the robotic life cycle" said C. Dwight Klappich, research vice president at Gartner. "Supply chain leaders will have a key role to play in working with CROs to define and implement a life cycle approach for managing large-scale robotic environments."
+
+Klappich said that people-centric management practices have evolved over centuries to the point where most organizations and individual managers are reasonably competent at managing people. Companies have developed strong capabilities to hire, motivate, discipline, encourage, advance and reward humans.
+
+"However, while robots are rapidly growing in use, development of effective principles, processes and disciplines for managing automated workers are still in the very early stages" said Klappich. "Regrettably most organizations currently do not even believe that 'things' should be part of their management DNA, but this must evolve as 'things' take over more and more functions."
+
+It's certainly true at the operational technology (OT) level many companies with large-scale robotic deployments have developed some of the necessary competencies to effectively manage robots. Nevertheless, Gartner believes that they must begin to make a paradigm shift from purely bottom-up operational thinking to top-down strategic thinking about the role and management of robots.
+
+Take for example, the role of governance. From an OT bottom-up perspective, governance tends to focus on safety, reliability and interoperability. However, taking a top-down view to governance could include addressing vital issues around labor relations, brand protection, government mandates or capital investments. Put simply, the more strategic the implications of automation, the more important the need for C-level oversight and control.
+
+"Companies will increasingly rely on smart machines and robots replacing functions previously performed by humans,g said Klappich. "One of the first steps will be to recognize the need for new management techniques; the second will be developing an organizational structure that recognizes the differing role for robots."
+
+The leaders of future automated workforces, for example, will not be able to sit down with individual employees to develop personal development plans that will drive improved performance. Instead they will have to determine what is needed to design and build this improved performance into their robotic workforce — thus the emergence of the CRO role. The likelihood is that the most successful managers going forward will have equal measures of engineering, logic and problem-solving, and IT skills, while relying less on softer, traditional management skills.

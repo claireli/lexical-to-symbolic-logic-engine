@@ -1,0 +1,21 @@
+Vienna-based Proofcheck snaps €500k pre-seed to fuel corporate editorial departments with tailored LLM
+
+Proofcheck, a Vienna-based AI startup leading an LLM-powered revolution in content quality assurance, has raised €500k in a pre-seed funding round led by the early-stage German-Swiss 5502 Fund of BackBone Ventures. Other round participants included the European super angel fund Angel Invest, led by partner Mara Larson-Richard; Austrian entrepreneur and business angel Gernot Singer; and American technologist Kyle Kosic, an early OpenAI engineer who worked on ChatGPT and recently co-founded xAI with Elon Musk.
+
+With the pre-seed funding, the startup will accelerate the development of its AI-powered platform and expand its functionality to service the entire corporate content creation lifecycle, including the editing and design phases. The funding will also support Proofcheck as it grows its customer base in publishing, a $132 billion global market, and beyond. 
+
+Founded in Vienna in 2022 by American husband-and-wife team Tara Więckowska-Merrigan (CEO) and Alexandre Paris (CTO), Proofcheck has created an AI-powered software platform that centralizes fragmented content workflows and enables creators to efficiently prepare and perfect high-stakes content like books, white papers, and corporate reports.
+
+“Our platform not only establishes a high-quality editorial baseline that streamlines designed content workflows but also meticulously maintains an audit trail of work,” said CEO Tara Więckowska-Merrigan, who previously worked in book, magazine, and academic publishing, including at the global media company Condé Nast. “By consolidating and automating disparate tedious tasks, Proofcheck ensures a substantial return on investment through unparalleled efficiency gains and time savings.”
+
+Proofcheck’s product currently brings visually aware, “pixel-perfect” AI proofing to designed PDFs, the de-facto file format for the mass distribution of professional content. Proofcheck already serves about a dozen book publishers in North America and Europe, including some of the largest commercial publishers in Germany and the United States.
+
+“We have been using the early versions of Proofcheck for over a year now, and have found the software to be highly effective in its speed, accuracy, and its cost-saving,” commented Proofcheck customer Robert Hyde, the managing director of the UK-based Galileo Publishers.
+
+Proofcheck drew its early customers from the hundreds of inbound reach-outs it received following media coverage of the “day zero” investment the startup received from Plug and Play, an early investor in Google and Dropbox.
+
+“BackBone is delighted by the collaboration with Tara and Alex. During the investment process, we were captivated by their intelligence, humility, complementary skill set, and extensive network within the publishing and AI industry,” said Philippe Bernet, founding partner at BackBone Ventures. “With very limited resources, they have crafted an astonishing product already recognized by industry giants who reached out to Proofcheck solely based on a short press announcement. We eagerly anticipate the promising journey ahead with this dynamic team.”
+
+Unlike other LLM startups, Proofcheck’s platform does not use common general-purpose transformer models like ChatGPT and instead uses an ensemble of custom-trained open-source models and proprietary algorithms to deliver high-fidelity results while keeping customer IP secure. The startup additionally relies on its own AI document parser to quickly identify designed content’s constituent parts, like body text, titles, and footnotes.
+
+“Proofcheck goes beyond what any commodity LLM can alone achieve, offering refined tools for each of the many tasks burdening publishers,” said Proofcheck investor and advisor Kyle Kosic, the xAI cofounder and former Open AI engineer. “The resulting product has all of the capabilities and convenience of an AI engine, but it performs with the thoroughness and transparency of a diligent content editor. Most importantly, Proofcheck has found a powerful recipe for building high-quality software – Tara’s vision and industry knowledge intimately paired with Alex’s world-class engineering abilities.”

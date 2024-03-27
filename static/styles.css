@@ -1,0 +1,121 @@
+h1 {
+    font-size: 35px;
+    color: #93E9BE;
+    background-color: #000000;
+    padding: 3px;
+}
+body {
+    font-family: 'Major Mono Display', monospace;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around; 
+    gap: 8px; 
+    width: 90%;
+}
+
+.minimize-button {
+  position: absolute; 
+  top: 5px;
+  right: 5px; 
+  border: none; 
+  background: transparent; 
+  cursor: pointer; 
+  font-size: 12px; 
+}
+
+.minimize-button:hover {
+  color: #666; 
+}
+
+.original_article, .symbolic_logic, .phrases_content, .control_panel, .graph_container {
+    position: relative;
+    flex-basis: calc(25% - 8px); /* Adjusts width, accounting for gap */
+    padding: 10px;
+    font-size: 10px;
+    box-sizing: border-box;
+}
+
+.minimized {
+  flex: 0 1 25%; /* Minimized width */
+  height: 50px; /* Fixed minimized height */
+  overflow: hidden;
+  background-color: #f0faff; /* Faint pale blue shade */
+  border: 1px solid #007BA7; /* Cerulean blue border */
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); /* Subtle drop shadow */
+}
+
+h2 {
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    font-size: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.graph_container img {
+    width: 100%; 
+    height: auto; 
+}
+
+/* Adjust layout for smaller screens */
+@media (max-width: 768px) {
+    .original_article, .symbolic_logic, .phrases_content, .control_panel, .graph_container {
+        flex-basis: 100%; /* Stacks items vertically on smaller screens */
+    }
+}
+
+.highlight {
+    background-color: #93E9BE;
+}
+ul.no-bullets {
+    list-style-type: none; /* Remove default bullets */
+    padding: 0; /* Remove default padding */
+}
+
+ul.no-bullets li {
+    border: 1px solid #ccc; 
+    padding: 8px; 
+    margin-bottom: 4px; 
+}
+
+/* Pale lavender background for odd items */
+ul.no-bullets li:nth-child(odd) {
+    background-color: #f4e1f9;
+}
+
+/* Dark purple background for even items */
+ul.no-bullets li:nth-child(even) {
+    background-color: #7a4988;
+    color: #ffffff; /* Change text color for better readability */
+}
+
+.bullet-list,
+.prop-table {
+    display: inline-block;
+    vertical-align: top; /* Align elements vertically */
+    margin-right: 10px; /* Add some spacing between the elements */
+}
+

@@ -1,0 +1,35 @@
+Exclusive: Vanti Analytics Raises $4.5M Seed For Manufacturing AI
+Gené Teare
+November 24, 2020
+
+Israel-based Vanti Analytics has raised a $4.5 million seed round. Vanti is the developer of an analytics platform to reveal errors for electronics manufacturers to increase their productivity. 
+
+Subscribe to the Crunchbase Daily
+
+Silicon Valley-based True Ventures and Israel-based More VC led the round. Rohit Sharma from True Ventures and Meir Ukeles, a venture partner at More VC will join the board.  The company has raised a total of $6 million to date, having raised a pre-seed round in 2019 led by i3 Equity Partners.
+
+We spoke with CEO Smadar David who co-founded the company in 2019 with CTO Nir Osiroff, both execs coming from relevant engineering backgrounds. In the last decade, David has worked in hardware design and manufacturing of micro-electronics and optics. 
+
+Meanwhile, Osiroff is proficient in electrical engineering algorithms and machine-learning methods. Their mutual experience spans across automotive, semiconductors and high-speed communication and memory networks. 
+
+The Vanti product leverages data collected from the manufacturing floor to improve productivity. Discovering manufacturing problems late in the process can be very costly, according to David. The company has a SaaS business model with an annual license fee. 
+
+“We’re all about helping them to utilize data they already collect, into a very agile, easy way to deploy smart models and smart analytics in real time in their manufacturing floors, so they don’t have to go to data science teams or AI consulting companies,” David said an interview with Crunchbase News. 
+
+The platform can be utilized by consumer electronics, the semiconductor industry, renewable energy and the automotive industry.
+
+Sharma of True Ventures said his firm invested in the company because of its wide market potential. He also noted that Israel, the U.S. and Asia are compelling markets for this technology. 
+
+“The opportunity is broad across multiple geographies and multiple industries, starting with high-end precision electronic manufacturing,” he said.
+
+Even though the company is starting out in electronics, this platform is applicable to all industrial manufacturing.   
+
+The anomaly detection loop in manufacturing is often local and largely manual, Sharma said.
+
+“So if you take a broad multinational company that’s manufacturing in five different locations, for them to share this workstation knowledge is very hard and they have to invent systems to do that,” Sharma said. 
+
+“Then in real time apply that knowledge to wherever else you might have similar issues,” he said.
+
+Feature photo of CTO Nir Osiroff and CEO Smadar David.
+
+

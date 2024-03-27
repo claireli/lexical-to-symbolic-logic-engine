@@ -1,0 +1,18 @@
+Ziotag Inc. completes over $500K pre-seed round funding to leverage AI and transform the way people watch video
+
+Ziotag Inc., a pioneering New York area startup that uses Artificial Intelligence (AI) to make searching and navigating video content a seamless experience, recently announced that it has completed a $500K+ pre-seed round, led by GITP Ventures. With the announcement, GITP Ventures’ founder Michael Puscar joins the Ziotag founder team as the company’s new Chief Technology Officer.
+
+Ziotag’s groundbreaking platform leverages AI and semantic web technology to automatically generate an Actionable Table of Contents (AToC) for any video or audio content. The platform breaks the media into chapters and sections, called ‘ziotags’, allowing users to jump directly to the most relevant part of the content.
+
+With Ziotag, enterprises can automatically search for sections of video by topic, speaker, or both. This will allow them to create custom training programs for their employees, partners, and customers with only a few clicks. Ziotag takes isolated islands of information and makes them shareable, reusable, and most importantly, immediately discoverable and accessible.
+
+Ziotag’s pre-seed round is led by prominent investor and technologist, Puscar, who is the founder and President of GITP Ventures. Puscar is a hi-tech veteran and successful angel investor, who most recently sold his company, Yuxi Pacific, to private equity firm Blue Loop Capital. As part of this investment, Puscar is assuming an active role in Ziotag, which includes serving as the company’s Chief Technical Officer and chief architect of the technology. 
+
+“Ziotag is transforming the way that people interact with video and delivers a more satisfying experience when searching, navigating and sharing content. Having Michael Puscar join the organization validates our vision and accelerates our growth. Prior to Ziotag, discovering and sharing portions of long format videos was almost impossible unless you are a professional video editor,” says Ziotag CEO Jeffrey Paul. “With Ziotag, it’s not only possible, but it’s also fast and easy. Now, non-technical users can harness the power of AI to make their videos easy to watch, navigate, and share.”
+
+In addition to the AToC, the technology platform uses speaker diarization technology to identify speakers in videos, tagging them, and storing a unique biometric profile. This allows for powerful searches that in turn allow users to find sections of videos based upon both the speaker and the topic of conversation.
+
+Currently in closed beta, Ziotag’s product launch is not far away, according to Puscar, who calls the company’s technology ‘transformational’ and says that he expects adoption of the platform to change not only the consumption pattern of consumers but of enterprises as well.
+With the investment, Puscar becomes the company’s fourth founder, joining co-founders, Jeff Paul, Steve Durham, and Todd Giannattasio. CEO Jeff Paul indicated that the company will pursue a seed round before the end of Q1 2020.
+
+Disclosure: This article includes a client of an Espacio portfolio company.

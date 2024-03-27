@@ -1,0 +1,67 @@
+Daytona, a pioneering development environment management (DEM) platform offering secure and scalable hybrid development environments, just closed a $2 million pre-seed funding round. I've spoken with CEO and co-founder Ivan Burazin to learn more about the investment, Daytona's traction, and future plans.
+
+How much money did you raise in this round?
+We raised $2 million, which exceeded our initial target. There was tremendous interest from leading dev tools investors who recognized the potential of our solution.
+
+Who participated in the round?
+When we structured our Pre-Seed round, we intentionally sought support from experienced founders and key players in the developer tool industry, individuals whose reputations are linked to the tools you probably use daily.
+
+
+We received backing from angel investors like Abhinav Asthana (Founder of Postman), Prashanth Chandrasekar (CEO of StackOverflow), Charity Majors (Co-Founder of Honeycomb), Paul Copplestone (Co-Founder of Supabase), Luke Kanies (Founder of Puppet) and many others. Their domain expertise will help us refine our product and scale efficiently.
+
+
+To bolster our capacity to meet growing demand, we also teamed up with 500 Emerging Europe, a firm managing $2.7 billion in assets and an investor in over 35 billion-dollar enterprises such as GitLab, Twilio, Algolia, among others. Additionally, we're excited to reveal involvement from Tiny.vc, Silicon Gardens, and Firestreak Ventures, all of whom have supported top-tier companies, including Anthropic, Stripe, and OpenAI.
+
+
+One of our angels, Christian Bach from Netlify, was impressed by our dedication to improving developer environments. He believes in our mission to make building standardized, secure developer environments more straightforward, a mission that's in line with the larger aim of boosting developer efficiency.
+
+What is your company’s current valuation?
+The round was done on an uncapped SAFE, reflecting the immense market potential for secure, self-hosted development environments tailored to enterprise needs. Our early traction with large Fortune 500 customers validates the strong demand.
+
+What does Daytona offer today?
+Daytona provides a self-hosted development environment management platform that gives enterprises an enterprise-grade alternative to GitHub Codespaces. Developers can spin up secure, compliant coding environments matching production infrastructure with a simple CLI command or click in the Daytona dashboard.
+
+Daytona eliminates complex configuration and security challenges while empowering developers with flexible, instantly available workspaces. We aim to be the industry standard for dev environments served through internal developer platforms.
+How do you differentiate from competitors?
+Unlike other development environment managers, Daytona is designed for self-managed deployment on internal infrastructure, whether cloud or local data center. This enables complete data control, security, and policy enforcement for regulated industries.
+
+Who are the founders and key team members?
+My co-founders, Vedran Jukic (CTO) and Goran Draganic (Chief Architect), and I lead an experienced team of cloud dev tools veterans. We have pioneered the cloud IDE space with Codeanywhere and have over 15 years of experience understanding developer needs. Building on this experience, Daytona offers unmatched flexibility, security, and simplicity.
+
+
+Our technical leadership designed Daytona's architecture leveraging Kubernetes, Kata Containers, and other leading orchestration technologies. We're a product-obsessed team focused on delivering exceptional solutions.
+
+How will you invest the funding?
+The funding will help us accelerate hiring across engineering, sales, and marketing to keep pace with customer demand. We'll also be refining our product capabilities, exploring strategic partnerships, and ramping up sales and marketing efforts.
+
+What’s exciting about your traction?
+We already have large enterprise customers in industries like aerospace, banking, and telecommunications. Our early success in securing Fortune 500 customers indicates the immense market appetite for enterprise-tailored development environments.
+
+What are your revenue goals?
+As this is an early stage, we are focused on product-market fit and scaling our customer base. In the forthcoming period, our goal is to double our revenue. Our vision is ambitious but achievable based on the enthusiasm we're seeing.
+
+What's your favorite pitch deck slide?
+My favorite slide captures the all-too-familiar pre-coding routine developers endure. It illustrates the steps before actual coding can begin, such as switching git branches, refreshing local environments, downloading libraries, installing tools, enduring build times, updating dependencies, compiling the project, and waiting for tests to run. When scaled across multiple projects and teams, this sequence of tasks significantly amplifies the inefficiency and frustration.
+
+
+This slide resonates deeply with our audience because it highlights the universal pain points in the development process, and it sets the stage for Daytona to present our compelling solution. It effectively underscores the necessity for a system like ours, which streamlines these cumbersome processes, allowing developers to focus on what they do best—coding.
+
+
+What problem does Daytona solve?
+
+Daytona addresses the challenges enterprises face in building secure, compliant development environments cost-effectively. We eliminate the need for expensive in-house platforms by providing an off-the-shelf solution purpose-built for regulated industries.
+
+The rise of infrastructure-as-code and integrated IDEs created the perfect timing for our standardized environment approach. We make robust dev environments accessible.
+
+What are the biggest risks?
+
+There is always execution risk with bringing a new product to market. However, our experience, technical expertise, customer validation, and exceptional investor support give us confidence.
+
+
+Our biggest challenge is keeping up with surging enterprise demand. We'll be smart about scaling sustainably.
+
+Why will Daytona grow exponentially?
+Every software team needs standardized environments to eliminate configuration drift and boost velocity. We have a track record as founders who helped pioneer cloud-based dev tools. With tailored enterprise capabilities, incredible support, and perfect timing, Daytona is poised for tremendous growth.
+
+
+The market pain points are clear, the solution works, and customers are validating the value. We enable enterprises to deliver better software faster through Daytona's simplicity and security. It's a very exciting time!

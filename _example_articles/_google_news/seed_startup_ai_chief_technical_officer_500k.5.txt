@@ -1,0 +1,19 @@
+UK-based fintech Nuke From Orbit raises £500k pre-seed funding to deliver smarter smartphone security
+
+Nuke From Orbit, a fintech startup based in the UK, has raised £500,000 in a pre-seed round to take its product to market. The startup, which aims to revolutionise mobile security, attracted leading investors with its innovative approach to protecting financial accounts and personal identifiable information (PII).
+
+The funding comes from several UK-based companies and investors, including Oliver Bridgen, Co-Founder & COO of specialist FX broker Ballinger Group, and Jordan Hallows, founder of Wey Bridging Finance.
+
+Mobile phone theft is increasing, with one reported stolen every six minutes in London. With smartphones increasingly used to run people’s lives, having a phone stolen is no longer just about replacing a handset; there is critical, valuable data stored on it. If criminals access it, the potential financial and reputational damage can be significant. Nuke From Orbit was founded to tackle this rising problem by providing the instant invalidation of stolen data. It cancels bank cards, secures digital accounts (banking apps, email, digital wallets, social media, etc.), and blocks the device SIM in a single action.
+
+‘‘We are thrilled for the support from our investors who believe in our mission to safeguard mobile data. This investment is not just a financial boost, but a propelling force that will catapult us towards expanding our partner base as we gear up to launch our dynamic partner portal.
+
+Our focus is clear: we’re on a mission to halt cybercriminals in their tracks, ensuring that people’s invaluable data remains secure and out of reach from prying eyes. While this monumental task has only been partially tackled before, with the backing of our investors, we’re now in a power-packed position to turn this ambition into reality.
+
+We’re not just aiming to disrupt the mobile security market, but we’re on a journey to redefine it. A huge thank you to our investors for believing in us and supporting us as we embark on this exciting adventure,” said James O’Sullivan, CEO and founder of Nuke From Orbit.”
+
+Lead investor Bridgen added, ”The knock-on effects of mobile phone theft is a huge problem that no one has adequately got to grips with. After analysing the size of the addressable market, I was confident to support Nuke From Orbit’s mission to combat the growing threat of cyber and financial crimes.”
+
+Nuke From Orbit will partner with financial, telecommunications, social media, De-Fi and other technology providers who give users access to platforms through mobile applications and interfaces.
+
+The company will use the funding to prepare the technology for public beta testing in the UK market in late 2024 and expand the team to bring partners on board. Subsequently, Nuke From Orbit plans to take the service global, prioritising countries with high smartphone adoption, higher crime rates and strong traction in modern financial services such as Open Banking.
